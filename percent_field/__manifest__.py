@@ -15,8 +15,7 @@
     'support': 'sales@ksolves.com',
     'version': '1.0.0',
     'images': [
-        'static/description/img/banner.jpg',
-        'static/description/img/list_screenshot.jpg',
+        'static/description/main.jpg',
     ],
     # any module necessary for this one to work correctly
     'depends': ['base','web'],
