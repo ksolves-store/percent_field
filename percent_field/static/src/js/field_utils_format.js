@@ -1,7 +1,6 @@
 odoo.define('percent_field.field_utils_format', function (require) {
     "use strict";
     var ks_field_utils = require('web.field_utils');
-    var ks_self = ks_field_utils;
     var ks_basic_controller = require('web.BasicController');
     var _t = require('web.core')._t;
     var ks_error_val;

@@ -4,7 +4,6 @@ odoo.define('percent_field.basic_fields', function (require) {
     var ks_basic_fields = require('web.basic_fields');
     var ks_FieldFloat = ks_basic_fields.FieldFloat;
     var Widget = require('web.Widget');
-    ks_field_registry.add('Percent', ks_basic_fields.ks_FieldPercent)
 
     /*
      *extending the default float field
