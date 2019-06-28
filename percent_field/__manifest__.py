@@ -7,7 +7,7 @@
     'description': """
               Percent field for odoo 12.0. 
       """,
-    'author': "Ksolves",
+    'author': "Ksolves India Pvt. Ltd.",
     'website': "https://www.ksolves.com/",
     'license': 'LGPL-3',
     'live_test_url':'https://youtu.be/Guuyj7Gns00',
