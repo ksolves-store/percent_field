@@ -7,9 +7,11 @@
     'description': """
               Percent field for odoo 14.0. 
       """,
-    'author': "Ksolves India Pvt. Ltd.",
+    'author': "Ksolves India Ltd.",
     'website': "https://www.ksolves.com/",
     'license': 'LGPL-3',
+    'currency': 'EUR',
+    'price': '0.0',
     'live_test_url': 'https://youtu.be/Guuyj7Gns00',
     'category': 'tools',
     'support': 'sales@ksolves.com',
