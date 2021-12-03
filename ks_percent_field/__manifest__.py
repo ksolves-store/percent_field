@@ -2,18 +2,20 @@
     'name': "Percent Field",
 
     'summary': """
-        Percent Field v13.0""",
+        Percent Field v14.0""",
 
     'description': """
-              Percent field for odoo 13.0. 
+              Percent field for odoo 14.0. 
       """,
-    'author': "Ksolves India Pvt. Ltd.",
+    'author': "Ksolves India Ltd.",
     'website': "https://www.ksolves.com/",
     'license': 'LGPL-3',
+    'currency': 'EUR',
+    'price': '0.0',
     'live_test_url': 'https://youtu.be/Guuyj7Gns00',
     'category': 'tools',
     'support': 'sales@ksolves.com',
-    'version': '1.0.0',
+    'version': '14.0.1.0.0',
     'images': [
         'static/description/main.jpg',
     ],
@@ -22,7 +24,6 @@
 
     # always loaded
     'data': [
-        # 'security/ir.model.access.csv',
         'views/assets.xml',
 
     ],
