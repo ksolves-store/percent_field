@@ -73,7 +73,7 @@ odoo.define('percent_field.field_utils_format', function (require) {
             var self = this;
             var call_once = true;
             var if_percent = true;
-            var errors = invalidFields.map(function (fieldName) {
+            var errors = invalidFields.map  (function (fieldName) {
                 var fieldtype = fields[fieldName].type;
                 if(fieldtype==="Percent" )
                 {
