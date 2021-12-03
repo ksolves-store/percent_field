@@ -2,10 +2,10 @@
     'name': "Percent Field",
 
     'summary': """
-        Percent Field v13.0""",
+        Percent Field v15.0""",
 
     'description': """
-              Percent field for odoo 13.0. 
+              Percent field for odoo 15.0. 
       """,
     'author': "Ksolves India Pvt. Ltd.",
     'website': "https://www.ksolves.com/",
@@ -13,7 +13,7 @@
     'live_test_url': 'https://youtu.be/Guuyj7Gns00',
     'category': 'tools',
     'support': 'sales@ksolves.com',
-    'version': '1.0.0',
+    'version': '15.0.1.0.0',
     'images': [
         'static/description/main.jpg',
     ],
@@ -21,10 +21,12 @@
     'depends': ['base', 'web'],
 
     # always loaded
-    'data': [
-        # 'security/ir.model.access.csv',
-        'views/assets.xml',
+    "assets": {
+        "web.assets_backend": [
+            "ks_percent_field/static/src/js/basic_fields.js",
+            "ks_percent_field/static/src/js/field_utils_format.js",
+        ]
+    }
 
-    ],
 }
 # -*- coding: utf-8 -*-
