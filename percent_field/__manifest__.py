@@ -8,7 +8,7 @@
               Percent field for odoo 11.0. 
       """,
     'author': "Ksolves India Pvt. Ltd.",
-    'website': "https://www.ksolves.com/",
+    'website': "https://store.ksolves.com/",
     'license': 'LGPL-3',
     'live_test_url':'https://youtu.be/Guuyj7Gns00',
     'category': 'tools',
