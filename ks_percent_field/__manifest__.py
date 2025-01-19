@@ -9,6 +9,7 @@
       """,
     'author': "Ksolves India Ltd.",
     'website': "https://store.ksolves.com/",
+
     'license': 'LGPL-3',
     'currency': 'EUR',
     'price': '0.0',
