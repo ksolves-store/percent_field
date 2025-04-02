@@ -10,7 +10,7 @@
     'author': "Ksolves India Pvt. Ltd.",
     'website': "https://store.ksolves.com/",
     'license': 'LGPL-3',
-    'live_test_url': 'https://youtu.be/Guuyj7Gns00',
+    'live_test_url': 'https://ksdemo.kappso.com/',
     'category': 'tools',
     'support': 'sales@ksolves.com',
     'version': '1.0.0',
