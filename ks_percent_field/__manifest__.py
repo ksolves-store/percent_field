@@ -13,7 +13,7 @@
     'license': 'LGPL-3',
     'currency': 'EUR',
     'price': '0.0',
-    'live_test_url': 'https://youtu.be/Guuyj7Gns00',
+    'live_test_url': 'https://ksdemo.kappso.com/',
     'category': 'tools',
     'support': 'sales@ksolves.com',
     'version': '14.0.1.0.0',
